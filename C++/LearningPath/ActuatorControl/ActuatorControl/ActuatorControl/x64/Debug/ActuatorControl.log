@@ -1,0 +1,8 @@
+﻿  TemperatureSensor.cpp
+  Actuator.cpp
+C:\repository\test\Projects\C++\LearningPath\TemperatureSensor\TemperatureSensor\TemperatureSensor\TemperatureSensor.hpp(8,10): error C1083: Cannot open include file: 'IObserver.hpp': No such file or directory
+  (compiling source file '../../../TemperatureSensor/TemperatureSensor/TemperatureSensor/TemperatureSensor.cpp')
+  
+  ActuatorControl.cpp
+  Main.cpp
+  Generating Code...

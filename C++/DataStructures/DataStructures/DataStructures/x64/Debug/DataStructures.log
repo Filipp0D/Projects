@@ -1,0 +1,3 @@
+﻿  DataStructures.cpp
+C:\repository\test\Projects\C++\DataStructures\DataStructures\DataStructures\DataStructures.cpp(287,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DataStructures.vcxproj -> C:\repository\test\Projects\C++\DataStructures\DataStructures\x64\Debug\DataStructures.exe
