@@ -1,0 +1,7 @@
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\bin\Debug\C#_dotNET_lwarn.exe.config
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\bin\Debug\C#_dotNET_lwarn.exe
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\bin\Debug\C#_dotNET_lwarn.pdb
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\obj\Debug\C#_dotNET_learn.csproj.AssemblyReference.cache
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\obj\Debug\C#_dotNET_learn.csproj.CoreCompileInputs.cache
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\obj\Debug\C#_dotNET_lwarn.exe
+C:\repository\test\Projects\C#\C#_dotNET_lwarn\C#_dotNET_lwarn\obj\Debug\C#_dotNET_lwarn.pdb

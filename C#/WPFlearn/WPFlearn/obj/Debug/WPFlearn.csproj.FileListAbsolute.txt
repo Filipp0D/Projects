@@ -1,0 +1,16 @@
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\bin\Debug\WPFlearn.exe.config
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\bin\Debug\WPFlearn.exe
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\bin\Debug\WPFlearn.pdb
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.csproj.AssemblyReference.cache
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\MainWindow.baml
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\MainWindow.g.cs
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\App.g.cs
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn_MarkupCompile.cache
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.g.resources
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.Properties.Resources.resources
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.csproj.GenerateResource.cache
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.csproj.CoreCompileInputs.cache
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.exe
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn.pdb
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\repository\test\Projects\C#\WPFlearn\WPFlearn\obj\Debug\WPFlearn_MarkupCompile.lref

@@ -1,0 +1,7 @@
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\bin\Debug\Challenge#2.exe.config
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\bin\Debug\Challenge#2.exe
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\bin\Debug\Challenge#2.pdb
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\obj\Debug\Challenge#2.csproj.AssemblyReference.cache
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\obj\Debug\Challenge#2.csproj.CoreCompileInputs.cache
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\obj\Debug\Challenge#2.exe
+C:\repository\test\Projects\C#\LearningPath\Challenge#2\Challenge#2\Challenge#2\obj\Debug\Challenge#2.pdb

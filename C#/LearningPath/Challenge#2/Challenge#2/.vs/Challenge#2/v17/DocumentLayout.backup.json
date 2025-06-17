@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|c:\\repository\\test\\projects\\c#\\learningpath\\challenge#2\\challenge#2\\challenge#2\\actuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|solutionrelative:challenge#2\\actuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\challenge#2\\actuatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|solutionrelative:challenge#2\\actuatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\challenge#2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|solutionrelative:challenge#2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\challenge#2\\iactuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|solutionrelative:challenge#2\\iactuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\challenge#2\\iactuatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDC475-0718-4D62-ADFC-B5460D5F5E57}|Challenge#2\\Challenge#2.csproj|solutionrelative:challenge#2\\iactuatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActuatorController.cs",
+              "DocumentMoniker": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\IActuatorController.cs",
+              "RelativeDocumentMoniker": "Challenge#2\\IActuatorController.cs",
+              "ToolTip": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\IActuatorController.cs",
+              "RelativeToolTip": "Challenge#2\\IActuatorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:54:10.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IActuator.cs",
+              "DocumentMoniker": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\IActuator.cs",
+              "RelativeDocumentMoniker": "Challenge#2\\IActuator.cs",
+              "ToolTip": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\IActuator.cs",
+              "RelativeToolTip": "Challenge#2\\IActuator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:53:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActuatorController.cs",
+              "DocumentMoniker": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\ActuatorController.cs",
+              "RelativeDocumentMoniker": "Challenge#2\\ActuatorController.cs",
+              "ToolTip": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\ActuatorController.cs",
+              "RelativeToolTip": "Challenge#2\\ActuatorController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:53:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actuator.cs",
+              "DocumentMoniker": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\Actuator.cs",
+              "RelativeDocumentMoniker": "Challenge#2\\Actuator.cs",
+              "ToolTip": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\Actuator.cs",
+              "RelativeToolTip": "Challenge#2\\Actuator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:53:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge#2\\Program.cs",
+              "ToolTip": "C:\\repository\\test\\Projects\\C#\\LearningPath\\Challenge#2\\Challenge#2\\Challenge#2\\Program.cs",
+              "RelativeToolTip": "Challenge#2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:51:45.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
