@@ -1,36 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\",
+  "WorkspaceRootPath": "C:\\Project\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\IObserver.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\IObserver.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\ActuatorControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\Project\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\Actuator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorController.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\ActuatorController.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09946F09-ED5A-4553-B241-8EF78C4F6593}|ActuatorControl\\ActuatorControl.vcxproj|solutionrelative:ActuatorControl\\Actuator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,106 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IObserver.hpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\IObserver.hpp",
-              "RelativeDocumentMoniker": "ActuatorControl\\IObserver.hpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\IObserver.hpp",
-              "RelativeToolTip": "ActuatorControl\\IObserver.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-14T13:36:19.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TemperatureSensor.hpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.hpp",
-              "RelativeDocumentMoniker": "..\\..\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.hpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.hpp",
-              "RelativeToolTip": "..\\..\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.hpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T15:26:29.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TemperatureSensor.cpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.cpp",
-              "RelativeDocumentMoniker": "..\\..\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.cpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.cpp",
-              "RelativeToolTip": "..\\..\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor\\TemperatureSensor.cpp",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAI0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T13:32:27.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActuatorController.hpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorController.hpp",
-              "RelativeDocumentMoniker": "ActuatorControl\\ActuatorController.hpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorController.hpp",
-              "RelativeToolTip": "ActuatorControl\\ActuatorController.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T15:47:38.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Actuator.hpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.hpp",
-              "RelativeDocumentMoniker": "ActuatorControl\\Actuator.hpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.hpp",
-              "RelativeToolTip": "ActuatorControl\\Actuator.hpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-20T08:43:38.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp",
+              "DocumentMoniker": "C:\\Project\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp",
               "RelativeDocumentMoniker": "ActuatorControl\\Main.cpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp",
+              "ToolTip": "C:\\Project\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Main.cpp",
               "RelativeToolTip": "ActuatorControl\\Main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T08:43:15.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActuatorControl.cpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorControl.cpp",
-              "RelativeDocumentMoniker": "ActuatorControl\\ActuatorControl.cpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\ActuatorControl.cpp",
-              "RelativeToolTip": "ActuatorControl\\ActuatorControl.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T08:43:12.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Actuator.cpp",
-              "DocumentMoniker": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.cpp",
-              "RelativeDocumentMoniker": "ActuatorControl\\Actuator.cpp",
-              "ToolTip": "C:\\repository\\test\\Projects\\C\u002B\u002B\\LearningPath\\ActuatorControl\\ActuatorControl\\ActuatorControl\\Actuator.cpp",
-              "RelativeToolTip": "ActuatorControl\\Actuator.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T08:43:09.47Z"
+              "WhenOpened": "2025-06-18T15:09:52.371Z",
+              "EditorCaption": ""
             }
           ]
         }

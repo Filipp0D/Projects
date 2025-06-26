@@ -20,8 +20,8 @@ int main() {
 	tempSens2.addReading(31.2);
 	tempSens2.addReading(29.9);
 
-	auto actuator1 = make_shared<Actuator>("Act001", 30);
-	auto actuator2 = make_shared<Actuator>("Act002", 30);
+	auto actuator1 = make_shared<Actuator>("Act001", 35);
+	auto actuator2 = make_shared<Actuator>("Act002", 45);
 	//Actuator actuator1("Act001", 30);
 	//Actuator actuator2("Act002", 30);
 
@@ -46,6 +46,16 @@ int main() {
 
 	cout << "Stato degli attuatori:\n";
 	actCtrl.printStatus();
+
+	tempSens1.attach(actuator1);
+	tempSens2.attach(actuator2);
+
+	tempSens1.addReading(35);
+	tempSens2.addReading(33.2);
+
+	tempSens1.startAsyncSampling();
+	this_thread::sleep_for(chrono::seconds(15));
+	tempSens1.stopAsyncSampling();
 
 	return 0;
 }

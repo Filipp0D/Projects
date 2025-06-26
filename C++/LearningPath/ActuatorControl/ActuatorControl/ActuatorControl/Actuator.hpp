@@ -2,22 +2,26 @@
 #define ACTUATOR_HPP
 #include <iostream>
 #include "TemperatureSensor.hpp"
+#include "IObserver.hpp"
 
 using namespace std;
 
-class Actuator {
+class Actuator : public IObserver {
 private:
 	string id;
 	double threshold;
 	bool isActive;
 	TemperatureSensor* temperatureSensor = nullptr;
+
 public:
 	Actuator(string id, double threshold);
 	void check();
-	bool getState();
+	bool getState() const;
 	void setState(bool state);
-	string getId();
+	string getId() const;
 	void attachTempSensor(TemperatureSensor* s);
+
+	void update(double newTemperature) override;
 
 };
 

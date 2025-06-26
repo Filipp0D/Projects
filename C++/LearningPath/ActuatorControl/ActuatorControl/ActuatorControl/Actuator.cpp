@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Actuator.hpp"
+#include "IObserver.hpp"
 
 using namespace std;
 
@@ -9,11 +10,11 @@ void Actuator::setState(bool state){
 	isActive = state;
 }
 
-string Actuator::getId(){
+string Actuator::getId() const {
 	return id;
 }
 
-bool Actuator::getState() {
+bool Actuator::getState() const {
 	return isActive;
 }
 
@@ -40,3 +41,12 @@ void Actuator::attachTempSensor(TemperatureSensor* s) {
 	cout << "Temperature sensor attached to the actuator " << id << endl;
 }
 
+void Actuator::update(double newTemperature) {
+	if (newTemperature < threshold && isActive) {
+		isActive = false;
+		cout << "Actuator " << id << " turned off (temperature over threshold)" << endl;
+	}
+	else if (newTemperature <= threshold && !isActive){
+		cout << "Actuator " << id << " turned on (temperature under threshold)" << endl;
+	}
+}

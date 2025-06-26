@@ -4,6 +4,8 @@
 #include <fstream>
 #include <sstream>
 #include <cstdlib>
+#include <memory>
+#include <random>
 #include "json.hpp"
 #include "TemperatureSensor.hpp"
 #include "Logger.hpp"
@@ -133,16 +135,44 @@ Measurement TemperatureSensor::getMax() {
 	//return *max_element(measurement.begin(), measurement.end());
 }
 
-void TemperatureSensor::attach(IObserver* observer) {
+void TemperatureSensor::attach(shared_ptr<IObserver> observer) {
 	observers.push_back(observer);
 }
 
 void TemperatureSensor::notifyObservers(double newTemperature) {
-	for (auto* obs : observers) {
+	for (auto obs : observers) {
 		if (obs) {
 			obs->update(newTemperature);
 		}
 	}
 }
 
+void TemperatureSensor::samplingLoop(int intervalSeconds) {
+	random_device rd;
+	mt19937 gen(rd());
+	uniform_real_distribution<> dis(20.0, 35.0);
+
+	while (isThreadRunning) {
+		double newTempValue = dis(gen);
+		addReading(newTempValue);
+		this_thread::sleep_for(chrono::seconds(intervalSeconds));
+	}
+}
+
+void TemperatureSensor::startAsyncSampling(int intervalSeconds) {
+	if (isThreadRunning) return;
+	isThreadRunning = true;
+	samplingThread = thread(&TemperatureSensor::samplingLoop, this, intervalSeconds);
+}
+
+void TemperatureSensor::stopAsyncSampling() {
+	isThreadRunning = false;
+	if (samplingThread.joinable()) {
+		samplingThread.join();
+	}
+}
+
+TemperatureSensor::~TemperatureSensor() {
+	stopAsyncSampling();
+}
 

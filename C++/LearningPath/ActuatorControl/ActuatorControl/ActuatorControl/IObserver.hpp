@@ -1,5 +1,6 @@
-#ifndef IOBSERVER_HPP
-#define IBSERVER_HPP
+//#ifndef IOBSERVER_HPP
+//#define IBSERVER_HPP
+#pragma once
 
 class IObserver {
 public:
@@ -7,4 +8,4 @@ public:
 	virtual ~IObserver() = default;
 };
 
-#endif // !IOBSERVER_HPP
+//#endif // !IOBSERVER_HPP
