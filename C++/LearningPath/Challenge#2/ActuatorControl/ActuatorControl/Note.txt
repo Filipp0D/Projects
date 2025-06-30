@@ -1,0 +1,70 @@
+Break and test run prima dell'implementazione di:
+1. Ciclo di monitoraggio automatico
+2. asincronia e gestione eventi
+3. gestione avanzata con callback/eventi
+
+Errore bloccante:
+Exception thrown at 0x00007FFD0575C4E0 in ActuatorControl.exe: 0xC0000005: Access violation writing location 0x000000000017C23B.
+
+Si desume sia un problema di allocazione/lettura di memoria, ergo coinvolge i puntatori che vengono usati per associare all'attuatore un sensore (soluzione adottata per garantire flessibilità).
+
+1st check: utilizzato correttamente attachTempSensor() e inizializzazione del TemperatureSensor.
+Garantito ciò, la causa è da ricercare più a fondo.
+
+
+Problema probabile: Copia superficiale dell'attuatore con puntatori non sicuri.
+Quando nel main() aggiungo gli attuatori al controller (addActuator()) sto copiando oggetti Actuator, che al loro interno hanno un puntatore TemperatureSensor*. Quando li copi nel vector<Actuator> actuatorVect, stai copiando anche quel puntatore senza garantire che resti valido o coerente.
+Questo può causare:
+- accesso a puntatori non utilizzati
+- doppie liberazioni
+- access violation, se il puntatore è sballato o dangling
+
+Soluzioni consigliate:
+- (consigliata) usa shared_ptr<T>
+- usa reference_wrapper<T>
+- 
+
+Smart Pointers:
+- sono classi di C++ che gestiscono automaticamente la proprietà (vedi "Proprietà") e il ciclo di vita di un oggetto allocato dinamicamente (new) — evitando errori come:
+	- memory leak (dimenticare delete)
+	- dangling pointer (usare memoria già deallocata)
+	- doppi delete
+
+- Principali smart pointers:
+	- unique_ptr<T> :: Proprietario unico, trasferibile :: Solo un oggetto lo possiede
+	- shared_ptr<T> :: Proprietà condivisa (conteggio)  :: Più oggetti lo possono condividere
+	- weak_ptr<T>   :: Osservatore non proprietario     :: Nessuna proprietà (serve a evitare cicli)
+
+Esempio (shared_ptr) -> 
+#include <memory>
+#include <iostream>
+using namespace std;
+
+class MyClass {
+public:
+    MyClass() { cout << "Costruttore\n"; }
+    ~MyClass() { cout << "Distruttore\n"; }
+};
+
+int main() {
+    shared_ptr<MyClass> a = make_shared<MyClass>();  // a ha la proprietà
+    shared_ptr<MyClass> b = a;                       // b condivide la proprietà
+
+    // Quando sia a che b escono di scope -> MyClass viene distrutto
+}
+
+- Vantaggi:
+	- Sicurezza (nessun delete manuale)
+	- Codice più leggibile
+	- Gestione automatica del ciclo di vita
+	- Evitano errori difficili da tracciare
+
+
+Proprietà (Ownesrship):
+- nel contesto della programmazione in C++, avere la proprietà (ownership) di un oggetto significa essere responsabili della sua vita e della sua distruzione
+- Chi possiede un oggetto:
+	- è responsabile della gestione della memoria (creazione, uso, e distruzione).
+	- decide quando l’oggetto viene deallocato.
+
+Esempio: int* iptr = new int(5); delete iptr; -> Se non chiamo delete, creo un memory leak
+
