@@ -1,0 +1,61 @@
+Date,Direction,Type,Description,Amount,PaymentMethod,MonthlyBalance,BankAccountBalance,PrepaidCardBalance
+2024-09-25 00:00:00,Entrata,Stipendio,Stipendio Accenture anticipato per 27 festivo,1629.86,Bonifico,1629.0,5734.78,3.54
+2024-09-25 00:00:00,Uscita,Bar,Gin Tonic dopo il rosario al città,9.0,Satispay,1620.0,5725.78,3.54
+2024-09-25 00:00:00,Uscita,Spesa,Merenda alla Conad di ritorno da Torino,6.89,Satispay,1613.11,5718.889999999999,3.54
+2024-09-25 00:00:00,Uscita,Benzina,Benzina IperCoop,44.72,Carta,1568.39,5674.169999999999,3.54
+2024-10-26 00:00:00,Uscita,Caffè,Caffè prima del funerale,1.2,Satispay,1567.19,5672.969999999999,3.54
+2024-10-26 00:00:00,Uscita,Cena,Sushi a Borgo,37.0,Satispay,1530.19,5635.969999999999,3.54
+2024-10-26 00:00:00,Uscita,Bar,Vermouth all'Infernotto,5.0,Satispay,1525.19,5630.969999999999,3.54
+2024-10-27 00:00:00,Entrata,Soldi,Papà per benzina,50.0,Satispay,1575.19,5680.969999999999,3.54
+2024-10-28 00:00:00,Uscita,Amazon,Cuffie JBL,80.0,Prepagata,1495.19,5600.969999999999,3.54
+2024-10-29 00:00:00,Uscita,Caffè,Caffè per me e Silvia,2.6,Satispay,1492.59,5598.369999999999,3.54
+2024-10-29 00:00:00,Uscita,Cena,"Trapizzino con Alban, Chiara e Fede",22.38,Satispay,1470.21,5575.989999999999,3.54
+2024-10-30 00:00:00,Uscita,Parcheggio,Parcheggio OGR,1.0,Carta,1469.21,5574.989999999999,3.54
+2024-10-31 00:00:00,Uscita,Tabacchi,Cartine ,1.4,Carta,1467.81,5573.589999999999,3.54
+2024-10-31 00:00:00,Uscita,Cena,Catarina Bistrot con Gi,118.0,Carta,1349.81,5455.589999999999,3.54
+2024-10-31 00:00:00,Uscita,Bar,Gin Tonic + Birra Ogr Mace,18.0,Carta,1331.81,5437.589999999999,3.54
+2024-10-31 00:00:00,Uscita,Ape dei santi,Aperitivo,12.0,Carta,1319.81,5425.589999999999,3.54
+2024-11-01 00:00:00,Uscita,Ricarica Iliad,Ricarica Iliad,10.0,Prepagata,1309.81,5415.589999999999,3.54
+2024-11-01 00:00:00,Uscita,Risparmi,Investimenti,200.0,Conto,1109.81,5215.589999999999,3.54
+2024-11-04 00:00:00,Uscita,Affitto,Affitto,420.0,Conto,689.8099999999997,4795.589999999999,3.54
+2024-11-02 00:00:00,Uscita,Cena,Cena Meira Paula con Gallo e Paola,60.0,Satisapy,629.8099999999997,4735.589999999999,3.54
+2024-11-06 00:00:00,Uscita,Extra,McFit,29.9,Conto,599.9099999999997,4705.69,3.54
+08/11/2024,Uscita,Extra,Taralli e caffè in Autogrill verso Bologna,4.6,Conto,595.3099999999997,4701.089999999999,3.54
+10/11/2024,Uscita,Pranzo,Spesa Lidl Bologna panna e prosciutto,38.26,Conto,557.0499999999997,4662.829999999999,3.54
+10/11/2024,Uscita,Extra,PopCorn e bibita Parthenope BO,8.0,Conto,549.0499999999997,4654.829999999999,3.54
+11/11/2024,Uscita,Ape,Ape BO attesa proclamazione,7.5,Conto,541.5499999999997,4647.329999999999,3.54
+13/11/2024,Uscita,Regali,Stampa slide Gi Reggio ELiocolor,14.5,Conto,527.0499999999997,4632.829999999999,3.54
+12/11/2024,Uscita,Pranzo,Spesa settimanale Reggio Emilia,33.2,Conto,493.8499999999997,4599.629999999999,3.54
+11/11/2024,Uscita,Tabacco,Cartine BO,1.5,Conto,492.3499999999997,4598.129999999999,3.54
+16/11/2024,Uscita,Pranzo,Osteria dei Servi Parma,93.5,Conto,398.8499999999997,4504.629999999999,3.54
+17/11/2024,Uscita,Ape,Aperitivo Melli,11.0,Conto,387.8499999999997,4493.629999999999,3.54
+17/11/2024,Uscita,Cena,Kebab Reggio,13.5,Conto,374.3499999999997,4480.129999999999,3.54
+19/11/2024,Uscita,Parcheggio,Raccomandata Soris,133.86,Conto,240.4899999999997,4346.27,3.54
+04/11/2024,Uscita,Regali,Regalo Martina,20.0,Satispay,220.4899999999997,4326.27,3.54
+05/11/2024,Uscita,Extra,Fanucchi Gallo,23.0,Satispay,197.4899999999997,4303.27,3.54
+06/11/2024,Uscita,Tabacco,Filtri,2.2,Satispay,195.2899999999997,4301.07,3.54
+07/11/2024,Uscita,Cena,Doppio Malto Gallo,32.0,Satispay,163.2899999999997,4269.07,3.54
+07/11/2024,Uscita,Bar,Birra Fanucchi Gallo,5.0,Satispay,158.2899999999997,4264.07,3.54
+08/11/2024,Uscita,Regali,Copisteria TO tessera,5.0,Satispay,153.2899999999997,4259.07,3.54
+09/11/2024,Uscita,Extra,A Fra Dentis,4.0,Satispay,149.2899999999997,4255.07,3.54
+09/11/2024,Uscita,Tabacco,Tabacco e cartine,8.5,Satispay,140.7899999999997,4246.57,3.54
+10/11/2024,Uscita,Cena,Kebab post festa laurea Martina,8.5,Satispay,132.2899999999997,4238.07,3.54
+10/11/2024,Entrata,Bonus,Ritorno spesa Lidl Mati,4.0,Satispay,136.2899999999997,4242.07,3.54
+10/11/2024,Entrata,Bonus,Ritorno spesa Lidl Martina,4.0,Satispay,140.2899999999997,4246.07,3.54
+10/11/2024,Entrata,Bonus,Ritorno spesa Lidl Christian,4.0,Satispay,144.2899999999997,4250.07,3.54
+10/11/2024,Entrata,Bonus,Ritorno spesa Lidl Fra Dentis,4.0,Satispay,148.2899999999997,4254.07,3.54
+11/11/2024,Uscita,Regali,Pianta casa Ariosto,15.0,Satispay,133.2899999999997,4239.07,3.54
+11/11/2024,Uscita,Caffe,Regis Cafe,5.7,Satispay,127.5899999999997,4233.37,3.54
+11/11/2024,Uscita,Cena,Sartoria Gastronomica,13.0,Satispay,114.5899999999997,4220.37,3.54
+14/11/2024,Uscita,Ape,Melli,20.0,Satispay,94.58999999999973,4200.37,3.54
+16/11/2024,Uscita,Ape,Melli,26.0,Satispay,68.58999999999973,4174.37,3.54
+16/11/2024,Uscita,Extra,Treno ritorno da Parma,3.5,Satispay,65.08999999999973,4170.87,3.54
+16/11/2024,Uscita,Extra,fee tp-up Sati,1.0,Satispay,64.08999999999973,4169.87,3.54
+19/11/2024,Uscita,Parcheggio,Multa,30.4,Satispay,33.68999999999973,4139.47,3.54
+20/11/2024,Uscita,Caffe,Colazione OGR,3.2,Satispay,30.48999999999974,4136.27,3.54
+20/11/2024,Uscita,Extra,Schede nuove PT,80.0,Satispay,-49.51000000000026,4056.27,3.54
+20/11/2024,Uscita,Extra,fee top-up Sati,1.0,Satispay,-50.51000000000026,4055.27,3.54
+19/11/2024,Uscita,Cena,Taco Bang Nico,14.75,Satispay,-65.26000000000026,4040.52,3.54
+20/11/2024,Uscita,Utenze,Bolletta a Chiara,18.2,Satispay,-83.46000000000026,4022.32,3.54
+21/11/2024,Uscita,Extra,prova,100.0,Satispay,-183.4600000000003,3922.32,0.0
+25/11/2024,Uscita,Pranzo,prova,100,Satispay,-283.46000000000026,3822.32,0.0

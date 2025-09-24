@@ -1,0 +1,10 @@
+{
+  "date" : "",
+  "direction" : ["Entrata", "Uscita"],
+  "chosen_direction" : "Entrata",
+  "type" : {
+    "entrata" : ["Stipendio", "Bonus", "Buonipasto"],
+    "uscita" : ["Affitto", "Utenze", "Investimenti", "Caffe", "Cena", "Pranzo", "Ape", "Bar", "Regali", "Benzina", "Parcheggio", "Extra", "Gi", "Tabacco"]
+  },
+  "payment_method" : ["Conto", "Prepagata", "Satispay", "Contanti"]
+}
