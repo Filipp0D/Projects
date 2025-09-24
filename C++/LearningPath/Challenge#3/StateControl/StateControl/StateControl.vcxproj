@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Actuator.cpp" />
     <ClCompile Include="ActuatorControl.cpp" />
+    <ClCompile Include="EventDispatcher.cpp" />
+    <ClCompile Include="EventQueue.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="StateManager.cpp" />
     <ClCompile Include="TemperatureSensor.cpp" />
@@ -138,8 +140,12 @@
     <ClInclude Include="Actuator.hpp" />
     <ClInclude Include="ActuatorController.hpp" />
     <ClInclude Include="AlarmActuator.hpp" />
+    <ClInclude Include="Event.hpp" />
+    <ClInclude Include="EventDispatcher.hpp" />
+    <ClInclude Include="EventQueue.hpp" />
     <ClInclude Include="FanActuator.hpp" />
     <ClInclude Include="HeaterActuator.hpp" />
+    <ClInclude Include="IEventListener.hpp" />
     <ClInclude Include="IObserver.hpp" />
     <ClInclude Include="IStateObserver.hpp" />
     <ClInclude Include="Measurement.hpp" />

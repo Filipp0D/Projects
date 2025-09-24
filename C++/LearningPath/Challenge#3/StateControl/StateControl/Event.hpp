@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-#include <any>
 using namespace std;
 
 enum class EventType{
@@ -11,6 +10,6 @@ enum class EventType{
 
 struct Event {
 	EventType event;
-	string source;
-	any payload;
+	string receiverId;
+	string payload;			// trying to include library <any> instead of string
 };

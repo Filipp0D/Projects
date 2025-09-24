@@ -1,0 +1,2 @@
+In each of the 22 folders there is a mini-project with a focus on implementing a design pattern.
+The objetive is to learn the structure and the logics behind each design pattern and be able to know when to use one or more of them based on the situation and the architectural issue I'm facing.

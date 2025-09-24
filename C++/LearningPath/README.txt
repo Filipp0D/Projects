@@ -16,6 +16,8 @@ In the following lines I'll give a brief overview of the concepts applied in the
 	- libraries: <memory>, <chrono>, <thread>, <atomic>, <ctime>
 
 - Challenge#3:
+	- polymorphism
+	- 
 	- State Machine handling
 	- advanced smart pointers
 	- 
