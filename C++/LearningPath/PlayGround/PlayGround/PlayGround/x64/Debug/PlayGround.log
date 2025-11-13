@@ -1,0 +1,19 @@
+﻿  Leet_1.cpp
+  PlayGround.cpp
+C:\Project\Projects\C++\LearningPath\PlayGround\PlayGround\PlayGround\Leet_1.cpp(90,16): error C3861: 'mergeArrayRecursive': identifier not found
+C:\Project\Projects\C++\LearningPath\PlayGround\PlayGround\PlayGround\Leet_1.cpp(90,2): error C2593: 'operator =' is ambiguous
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1544,26):
+      could be 'std::vector<int,std::allocator<int>> &std::vector<int,std::allocator<int>>::operator =(std::initializer_list<_Ty>)'
+          with
+          [
+              _Ty=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1523,26):
+      or       'std::vector<int,std::allocator<int>> &std::vector<int,std::allocator<int>>::operator =(const std::vector<int,std::allocator<int>> &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(798,26):
+      or       'std::vector<int,std::allocator<int>> &std::vector<int,std::allocator<int>>::operator =(std::vector<int,std::allocator<int>> &&) noexcept(<expr>)'
+      C:\Project\Projects\C++\LearningPath\PlayGround\PlayGround\PlayGround\Leet_1.cpp(90,2):
+      while trying to match the argument list '(std::vector<int,std::allocator<int>>, <error type>)'
+  
+C:\Project\Projects\C++\LearningPath\PlayGround\PlayGround\PlayGround\Leet_1.cpp(92,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
